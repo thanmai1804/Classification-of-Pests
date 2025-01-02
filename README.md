@@ -89,3 +89,21 @@ The CNN model consists of:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screens
+To run project double click on ‘run.bat’ file to start python server<br>
+![Chatbot Interface](./images/Picture1.png)<br>
+Main page<br>
+![Chatbot Interface](./images/Picture2.png)<br>
+CNN model training and accuracy<br>
+![Chatbot Interface](./images/Picture3.png)<br>
+Uploading Test images<br>
+![Chatbot Interface](./images/Picture4.png)<br>
+Pest classify as ‘beetle’<br>
+![Chatbot Interface](./images/Picture5.png)<br>
+Pest classify as ‘Caterpillar’<br>
+![Chatbot Interface](./images/Picture6.png)<br>
+Screen uploading another image<br>
+![Chatbot Interface](./images/Picture7.png)<br>
+Pest classified as ‘wasp’.<br>
+![Chatbot Interface](./images/Picture8.png)<br>
