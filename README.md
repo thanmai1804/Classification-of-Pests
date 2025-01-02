@@ -83,7 +83,8 @@ The CNN model consists of:
 
 ## Contributing
 
-Feel free to fork the repository, submit issues, or create pull requests.
+- **CH.THANMAI**
+- **K.YUVRAJ**
 
 ## License
 
