@@ -30,7 +30,7 @@ The dataset for training the model contains various pest images stored in the `D
 - OpenCV
 - Matplotlib
 - scikit-learn
-- Other necessary libraries (refer to requirements.txt)
+- Other necessary libraries 
 
 ### Installation
 
