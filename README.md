@@ -85,6 +85,8 @@ The CNN model consists of:
 
 - **CH.THANMAI**
 - **K.YUVRAJ**
+- **Bhavya**
+- **[Shashidhar](https://github.com/reddynalamari)**
 
 ## License
 
